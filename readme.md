@@ -1,11 +1,11 @@
 # Multi-Website Portfolio
 This is a repository containing a collection of websites I've built as a front-end developer. The websites in this repository include:
 
-A website for a business &bull;
-A website for a startup &bull;
-A website for a restaurant &bull;
-A website for an online school &bull;
-A portfolio website showcasing my work as a front-end developer &bull;
+- A website for a business
+- A website for a startup
+- A website for a restaurant
+- A website for an online school
+- A portfolio website showcasing my work as a front-end developer
 
 All of the websites in this repository have been designed and built by me. I've used HTML, CSS, and JavaScript to create the front-end of each website, also bootstrap 
 is used.
