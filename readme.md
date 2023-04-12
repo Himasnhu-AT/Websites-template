@@ -16,7 +16,10 @@ To view the website in action go to following link:
 https://himasnhu-at.github.io/Websites-template/
 
 To clone this repository to your local machine, run the following command:
+
+```
 git clone https://github.com/your-username/multi-website-portfolio.git
+```
 
 ## Websites Included
 ### - Business Website
